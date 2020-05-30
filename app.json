@@ -7,4 +7,5 @@
   "addons": ["heroku-postgresql"],
   "scripts": {
     "test": "env"
+  }
 }
