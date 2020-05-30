@@ -6,6 +6,6 @@
   "keywords": ["ruby", "rails" ],
   "addons": ["heroku-postgresql"],
   "scripts": {
-    "test": "env"
+    "test": "env; ls -la /app/vendor/bundle/ruby/2.7.0/bin/"
   }
 }

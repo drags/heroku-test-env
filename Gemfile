@@ -39,3 +39,5 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+
+gem "bundle-audit", "~> 0.1.0"
